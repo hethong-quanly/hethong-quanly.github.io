@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hethongquanly.kynangkiemsat",
+      "sha256_cert_fingerprints": [
+        "DB:89:DE:BF:BE:A4:BA:31:1B:66:B7:C3:96:8B:BE:C3:35:8C:4C:7C:27:77:BD:61:2F:B8:3F:87:02:FC:CA:ED"
+      ]
+    }
+  }
+]
